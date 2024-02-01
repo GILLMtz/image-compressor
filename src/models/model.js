@@ -1,0 +1,9 @@
+export const Mode={
+    CLI_INTERACTIVE:"CLI_INTERACTIVE",
+    CLI_PARAMS:"CLI_PARAMS",
+    CLI_FILE_PARAMS:"FILE_PARAMS"
+}
+export const InputType={
+    CLI_FILE_PARAMS:Mode.CLI_FILE_PARAMS,
+    CLI_PARAMS:Mode.CLI_PARAMS,
+}
