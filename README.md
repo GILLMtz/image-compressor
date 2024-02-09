@@ -9,7 +9,7 @@
 
 [![Es](https://img.shields.io/badge/Language-Es-eaff96?logo=Microsoft-Translator&logoColor=white)](./README-es.md)
 
-
+[![Node-js](https://img.shields.io/badge/nodejs-20.9.0-brightgreen)](https://nodejs.org/en)
  [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) 
  ![s](https://img.shields.io/badge/Status-development-orange)
 
